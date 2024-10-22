@@ -24,16 +24,5 @@ Before you get started, make sure you have the following prerequisites installed
 - [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-## Installation and executing project Instructions
 
-1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/Daxrajsinh/HomeWork-dotNET_core_MVC.git
-   
-2. Open the project in your Visual Studio Code.
-3. Change the connection String accordingly.
-4. Build and run the project.
-
-## Video Demo
-https://drive.google.com/file/d/19oI-v6i1Fo1gz29M-NT9GNoCFLQpuQgI/view
